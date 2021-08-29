@@ -1,2 +1,0 @@
-# FireBoltScripts
-Portfolio FireBoltScripts
